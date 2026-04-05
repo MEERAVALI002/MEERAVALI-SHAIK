@@ -36,7 +36,11 @@
 
 ### 🔹 Line Follower Car
 - Autonomous robot using IR sensors  
-- Real-time path tracking  
+- Real-time path tracking
+
+  ### 🔹 Restaurant E-Management System (Salesforce)
+- Cloud-based CRM solution for restaurant operations  
+- Improved efficiency using automation  
 
 ---
 
