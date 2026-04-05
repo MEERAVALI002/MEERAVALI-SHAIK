@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![ML](https://img.shields.io/badge/MachineLearning-Projects-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-red)
+
 # Hi, I'm Nagul Meeravali Shaik 👋
 
 🚀 AI & ML Engineer | Python | Computer Vision | Data Analysis  
